@@ -1,0 +1,85 @@
+2025-06-01 17:12:25,549 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 17:12:52,015 - INFO - Master server encerrado
+2025-06-01 17:13:06,274 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 17:14:42,971 - INFO - Worker adicionado: 192.168.68.108:49702
+2025-06-01 17:15:09,785 - INFO - Worker adicionado: 192.168.68.108:49710
+2025-06-01 17:15:19,356 - INFO - Worker adicionado: 192.168.68.108:49715
+2025-06-01 17:15:23,590 - INFO - Worker adicionado: 192.168.68.108:49719
+2025-06-01 17:15:27,828 - INFO - Worker adicionado: 192.168.68.108:49725
+2025-06-01 20:39:31,779 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 20:40:41,410 - INFO - Worker adicionado: 192.168.68.108:52132
+2025-06-01 20:40:53,346 - INFO - Worker adicionado: 192.168.68.108:52138
+2025-06-01 20:40:58,368 - INFO - Worker adicionado: 192.168.68.108:52142
+2025-06-01 20:41:02,117 - INFO - Worker adicionado: 192.168.68.108:52150
+2025-06-01 20:41:05,681 - INFO - Worker adicionado: 192.168.68.108:52154
+2025-06-01 20:41:09,533 - INFO - Worker adicionado: 192.168.68.108:52158
+2025-06-01 20:41:21,157 - INFO - Worker adicionado: 192.168.68.108:52163
+2025-06-01 20:41:32,302 - INFO - Worker adicionado: 192.168.68.108:52176
+2025-06-01 20:41:42,855 - INFO - Worker adicionado: 192.168.68.108:52182
+2025-06-01 20:41:46,579 - INFO - Worker adicionado: 192.168.68.108:52186
+2025-06-01 21:10:37,237 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 21:10:49,599 - INFO - Worker adicionado: 192.168.68.108:54825
+2025-06-01 21:10:59,245 - INFO - Worker adicionado: 192.168.68.108:54830
+2025-06-01 21:11:03,071 - INFO - Worker adicionado: 192.168.68.108:54835
+2025-06-01 21:13:39,432 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:13:39,869 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:14:11,900 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:14:13,948 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:14:45,987 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:14:48,025 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:15:20,081 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:15:22,104 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:15:54,142 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:15:56,181 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:16:28,248 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:16:30,287 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:17:02,342 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:17:04,382 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:17:36,435 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:17:38,452 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:18:10,523 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:18:12,540 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:18:44,557 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:18:46,592 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:19:18,644 - WARNING - Falha no heartbeat do worker 192.168.68.108:54825: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:19:20,661 - WARNING - Falha no heartbeat do worker 192.168.68.108:54830: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:19:45,548 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 21:19:58,727 - INFO - Worker adicionado: 192.168.68.108:55495
+2025-06-01 21:20:18,791 - INFO - Worker adicionado: 192.168.68.108:55501
+2025-06-01 21:20:25,590 - INFO - Worker adicionado: 192.168.68.108:55505
+2025-06-01 21:22:17,740 - WARNING - Falha no heartbeat do worker 192.168.68.108:55495: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:22:49,804 - WARNING - Falha no heartbeat do worker 192.168.68.108:55495: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:21,881 - WARNING - Falha no heartbeat do worker 192.168.68.108:55495: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:53,911 - WARNING - Falha no heartbeat do worker 192.168.68.108:55495: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:54,197 - INFO - Worker adicionado: 192.168.68.108:56001
+2025-06-01 21:24:11,170 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 21:24:22,850 - INFO - Worker adicionado: 192.168.68.108:56134
+2025-06-01 21:24:26,143 - INFO - Worker adicionado: 192.168.68.108:56138
+2025-06-01 21:24:28,723 - INFO - Worker adicionado: 192.168.68.108:56146
+2025-06-01 21:24:31,348 - INFO - Worker adicionado: 192.168.68.108:56154
+2025-06-01 21:24:33,400 - INFO - Worker adicionado: 192.168.68.108:56158
+2025-06-01 21:24:35,385 - INFO - Worker adicionado: 192.168.68.108:56161
+2025-06-01 21:26:13,399 - WARNING - Falha no heartbeat do worker 192.168.68.108:56134: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:26:47,203 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-01 21:26:54,506 - INFO - Worker adicionado: 192.168.68.108:56596
+2025-06-01 21:26:57,820 - INFO - Worker adicionado: 192.168.68.108:56599
+2025-06-01 21:27:00,063 - INFO - Worker adicionado: 192.168.68.108:56605
+2025-06-01 21:27:02,676 - INFO - Worker adicionado: 192.168.68.108:56609
+2025-06-01 21:27:04,442 - INFO - Worker adicionado: 192.168.68.108:56613
+2025-06-19 12:05:55,860 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-19 12:05:58,445 - INFO - Master server encerrado
+2025-06-19 12:06:00,582 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-19 12:06:02,171 - INFO - Master server encerrado
+2025-06-19 12:46:48,294 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-19 12:47:15,224 - INFO - Worker adicionado: 192.168.68.109:51643
+2025-06-19 12:47:31,111 - INFO - Worker adicionado: 192.168.68.109:51647
+2025-06-19 12:55:58,503 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-19 12:56:26,642 - INFO - Worker adicionado: 192.168.68.109:53301
+2025-06-19 12:56:38,092 - INFO - Worker adicionado: 192.168.68.109:53369
+2025-06-19 12:56:47,492 - INFO - Worker adicionado: 192.168.68.109:53411
+2025-06-19 12:56:59,631 - INFO - Worker adicionado: 192.168.68.109:53482
+2025-06-19 12:57:08,006 - INFO - Worker adicionado: 192.168.68.109:53529
+2025-06-19 14:37:57,981 - WARNING - Falha no heartbeat do worker 192.168.68.109:53482: timed out
+2025-06-21 10:48:39,520 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-21 10:50:47,057 - INFO - Worker adicionado: 192.168.68.109:50356
+2025-06-21 10:51:01,050 - INFO - Worker adicionado: 192.168.68.109:50360
