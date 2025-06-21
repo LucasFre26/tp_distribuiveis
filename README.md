@@ -128,8 +128,6 @@ log/
 
 ##  Autores
 
-**Lucas Jose de Freitas, **
-**Isaac Alves Schuenck, **
-**Gabriel Avelar Sabato**
+**Lucas Jose de Freitas, Isaac Alves Schuenck, Gabriel Avelar Sabato**
 ---
 
