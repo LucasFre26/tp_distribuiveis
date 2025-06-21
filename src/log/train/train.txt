@@ -1,0 +1,1586 @@
+2025-06-01 20:42:06,444 - INFO - Total de imagens encontradas: 2658
+2025-06-01 20:42:46,868 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:47,118 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:47,173 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:47,338 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:47,529 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:47,770 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:47,849 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:48,091 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:48,193 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:48,398 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:48,423 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:48,770 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:48,933 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:49,047 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:49,097 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:49,406 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:49,646 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:49,754 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:49,778 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:49,993 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:50,081 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:50,533 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:50,614 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:50,705 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:50,850 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:51,152 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:51,242 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:51,484 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:51,719 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:51,723 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:51,775 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:51,779 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:51,824 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:51,851 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:51,866 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:51,972 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:51,998 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:52,031 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:52,415 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:52,726 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:52,852 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52176): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:52,881 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:52,890 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:53,008 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,077 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:53,098 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,098 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,112 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,248 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:53,501 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:53,735 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:53,828 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,862 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,862 - ERROR - Erro no processamento do chunk 142: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,862 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,881 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:53,963 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,011 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:54,117 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,361 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,596 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,616 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:54,785 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,905 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:54,916 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:54,921 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:54,972 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:54,995 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 20:42:55,013 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:55,014 - ERROR - Erro no processamento do chunk 178: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:55,017 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:55,036 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 20:42:55,922 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 20:42:56,196 - INFO - Total imagens processadas: 2638, Labels: 2638
+2025-06-01 20:42:56,196 - INFO - Processamento concluído. Imagens: (2638, 224, 224, 1), Labels: (2638,)
+2025-06-01 20:42:56,706 - INFO - Iniciando época 1/10
+2025-06-01 20:44:48,970 - INFO - Época 1 - Val Loss: 0.3796, Val Acc: 0.8769
+2025-06-01 20:44:48,970 - INFO - Iniciando época 2/10
+2025-06-01 20:46:39,768 - INFO - Época 2 - Val Loss: 1.4292, Val Acc: 0.5246
+2025-06-01 20:46:39,768 - INFO - Iniciando época 3/10
+2025-06-01 20:48:31,643 - INFO - Época 3 - Val Loss: 4.1046, Val Acc: 0.5000
+2025-06-01 20:48:31,643 - INFO - Iniciando época 4/10
+2025-06-01 20:50:21,425 - INFO - Época 4 - Val Loss: 4.3202, Val Acc: 0.5000
+2025-06-01 20:50:21,425 - INFO - Iniciando época 5/10
+2025-06-01 20:52:10,346 - INFO - Época 5 - Val Loss: 2.0709, Val Acc: 0.5000
+2025-06-01 20:52:10,361 - INFO - Iniciando época 6/10
+2025-06-01 20:53:58,400 - INFO - Época 6 - Val Loss: 4.0196, Val Acc: 0.5000
+2025-06-01 20:53:58,400 - INFO - Iniciando época 7/10
+2025-06-01 20:55:55,391 - INFO - Época 7 - Val Loss: 1.7459, Val Acc: 0.5000
+2025-06-01 20:55:55,391 - INFO - Iniciando época 8/10
+2025-06-01 20:57:43,956 - INFO - Época 8 - Val Loss: 0.3208, Val Acc: 0.7538
+2025-06-01 20:57:43,956 - INFO - Iniciando época 9/10
+2025-06-01 20:59:38,882 - INFO - Época 9 - Val Loss: 4.2191, Val Acc: 0.5000
+2025-06-01 20:59:38,882 - INFO - Iniciando época 10/10
+2025-06-01 21:01:37,435 - INFO - Época 10 - Val Loss: 3.8213, Val Acc: 0.5000
+2025-06-01 21:01:37,656 - INFO - Modelo salvo com sucesso.
+2025-06-01 21:04:48,634 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:05:27,107 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:27,313 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:27,407 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:27,580 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:27,644 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:27,842 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:27,974 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:28,330 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:28,343 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:28,416 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52150): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:28,578 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:28,590 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:28,648 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:28,951 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:29,328 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:29,445 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:29,503 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:29,625 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:29,991 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:30,258 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:30,290 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:30,311 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): Ran out of input
+2025-06-01 21:05:30,563 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:30,957 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:31,040 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:31,202 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:31,237 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:31,317 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:31,633 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:31,802 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): Ran out of input
+2025-06-01 21:05:31,905 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:31,908 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:31,952 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:32,002 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:32,108 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:32,283 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:32,337 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:32,381 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:32,450 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:32,492 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:32,578 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:32,591 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:32,909 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:33,115 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:33,198 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:33,199 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:33,383 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:33,409 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:33,582 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:33,583 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:33,610 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:33,829 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:33,840 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,067 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:34,171 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,310 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:34,494 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,521 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:34,572 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,591 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,768 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:34,934 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,935 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:34,968 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:34,976 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:35,049 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:35,166 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:35,317 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:35,588 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52176): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:05:35,608 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:35,706 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:05:35,937 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:05:36,910 - INFO - Total imagens processadas: 2658, Labels: 2658
+2025-06-01 21:05:37,006 - INFO - Processamento concluído. Imagens: (2658, 224, 224, 1), Labels: (2658,)
+2025-06-01 21:05:37,501 - INFO - Iniciando época 1/20
+2025-06-01 21:05:38,073 - ERROR - Erro durante o pré-processamento ou treinamento: could not broadcast input array from shape (224,224,1) into shape (224,224)
+2025-06-01 21:06:57,231 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:07:34,744 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:34,821 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:34,936 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:35,234 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:35,459 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52182): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:35,569 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:35,587 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:35,905 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:36,088 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:36,191 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:36,198 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:36,216 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:36,558 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:36,824 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:37,163 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:37,202 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:37,261 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:37,453 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:37,562 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:37,638 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:37,764 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:38,063 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:38,182 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:38,478 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:38,655 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:38,696 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:38,748 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:38,790 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:38,818 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:39,114 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:39,409 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:39,488 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:39,604 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:39,604 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:39,620 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:39,637 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:39,682 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:39,821 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:39,904 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:39,958 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:40,044 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,047 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:40,122 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:40,541 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:40,616 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52150): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,640 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52163): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,693 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52182): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,703 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:40,738 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,905 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52163): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:40,907 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52176): Ran out of input
+2025-06-01 21:07:40,960 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52186): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:40,987 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:41,125 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52158): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:41,191 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52176): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:41,397 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:41,618 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 52150): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:41,618 - ERROR - Erro no processamento do chunk 149: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:41,717 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:41,741 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:41,910 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,083 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52186): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,101 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,115 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,126 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 52150): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,126 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:42,126 - ERROR - Erro no processamento do chunk 168: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,132 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,134 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:42,274 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,484 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,733 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,983 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:42,983 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:43,018 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:43,018 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52142): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:43,101 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:43,148 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:43,152 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 52132): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:07:44,027 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 52176): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:07:45,044 - INFO - Workers disponíveis atualizados: 10 workers
+2025-06-01 21:07:45,209 - INFO - Total imagens processadas: 2638, Labels: 2638
+2025-06-01 21:07:45,210 - INFO - Processamento concluído. Imagens: (2638, 224, 224, 1), Labels: (2638,)
+2025-06-01 21:07:45,734 - INFO - Iniciando época 1/20
+2025-06-01 21:07:47,479 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52132): Ran out of input
+2025-06-01 21:07:49,062 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52138): Ran out of input
+2025-06-01 21:07:50,756 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52142): Ran out of input
+2025-06-01 21:07:52,525 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52150): Ran out of input
+2025-06-01 21:07:54,471 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52154): Ran out of input
+2025-06-01 21:07:56,172 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52158): Ran out of input
+2025-06-01 21:07:58,011 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52163): Ran out of input
+2025-06-01 21:07:59,774 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52176): Ran out of input
+2025-06-01 21:08:01,494 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52182): Ran out of input
+2025-06-01 21:08:03,364 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52186): Ran out of input
+2025-06-01 21:08:03,387 - INFO - Iniciando época 2/20
+2025-06-01 21:08:05,072 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52132): Ran out of input
+2025-06-01 21:08:06,640 - ERROR - Erro ao enviar shard para ('192.168.68.108', 52138): Ran out of input
+2025-06-01 21:11:13,803 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:11:52,229 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,245 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,279 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,307 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,313 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:52,677 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,715 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:52,728 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:52,767 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,022 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,044 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,196 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,332 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:53,338 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54830): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:53,340 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,426 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,521 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,663 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,769 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:53,891 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,015 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,088 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,223 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,353 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:54,370 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,378 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:54,414 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,421 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:54,517 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,659 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,748 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:54,934 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,021 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,142 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,295 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,357 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,437 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,472 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:55,472 - ERROR - Erro no processamento do chunk 28: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:55,472 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:55,595 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,705 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,780 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:55,844 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,058 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,096 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:56,112 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,164 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,413 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:56,455 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,492 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,507 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:56,526 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:56,541 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,768 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:56,837 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,029 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,104 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,290 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,345 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,437 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,531 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54835): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:57,578 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,609 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:57,713 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,786 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:57,815 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,827 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54830): Ran out of input
+2025-06-01 21:11:57,896 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:57,957 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,027 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,080 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,141 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,144 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:58,209 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,310 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,373 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,418 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:58,483 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,510 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:58,534 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,654 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,661 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:58,764 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,788 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54830): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:58,828 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,929 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:58,932 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:58,994 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,043 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,123 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:59,130 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,209 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,266 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,380 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,422 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:59,430 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,511 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,513 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54825): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:11:59,568 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,655 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,662 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54830): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:59,759 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,764 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:11:59,810 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,908 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:11:59,968 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,067 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,125 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,245 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,285 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,368 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,425 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,425 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,489 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,566 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,628 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,643 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54830): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,668 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,750 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,778 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,778 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54825): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,778 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 54830): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,778 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:00,795 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:00,880 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,013 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,152 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,173 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,292 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,370 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54830): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:01,390 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,483 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,500 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:12:01,537 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,647 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 54835): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:12:01,651 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:01,803 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:02,501 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:12:02,847 - INFO - Total imagens processadas: 2648, Labels: 2648
+2025-06-01 21:12:02,847 - INFO - Processamento concluído. Imagens: (2648, 224, 224, 1), Labels: (2648,)
+2025-06-01 21:12:03,351 - INFO - Iniciando época 1/20
+2025-06-01 21:12:09,337 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54825): Ran out of input
+2025-06-01 21:12:15,193 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54830): Ran out of input
+2025-06-01 21:12:21,279 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54835): Ran out of input
+2025-06-01 21:12:21,307 - INFO - Iniciando época 2/20
+2025-06-01 21:12:26,358 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54825): Ran out of input
+2025-06-01 21:12:32,278 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54830): Ran out of input
+2025-06-01 21:12:38,028 - ERROR - Erro ao enviar shard para ('192.168.68.108', 54835): Ran out of input
+2025-06-01 21:12:38,059 - INFO - Iniciando época 3/20
+2025-06-01 21:20:50,153 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:21:27,789 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:27,824 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:27,841 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:27,874 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,136 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,159 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:28,219 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,248 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,404 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,496 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,576 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:28,583 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,728 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:28,809 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,037 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,090 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,179 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,196 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:29,313 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,406 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,469 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,592 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,699 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,823 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,940 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:29,975 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:29,975 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:30,050 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,119 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,197 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,331 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:30,334 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,457 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,657 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,756 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,861 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:30,982 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,030 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,131 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:31,265 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,333 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,399 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,425 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:31,535 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,541 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:31,644 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,730 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:31,921 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,035 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,127 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,301 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,310 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:32,401 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,460 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,578 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,720 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,836 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:32,974 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,041 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,056 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,130 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,132 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:33,176 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,178 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:33,192 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,232 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,235 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,293 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,385 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,387 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,464 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,468 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,601 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,692 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,777 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:33,862 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:33,872 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,008 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,111 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,141 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,141 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:34,181 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 55501): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:34,194 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,237 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,262 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,379 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,466 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,502 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,507 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,580 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,582 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,609 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,625 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,625 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,794 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:34,864 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:34,910 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,031 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,156 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,191 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,267 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,319 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,427 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,496 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,557 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,608 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,619 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 55501): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:35,648 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,706 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:35,717 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,771 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,775 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:35,824 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:35,828 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,865 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:35,875 - ERROR - Erro no processamento do chunk 163: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:35,949 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:35,974 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,100 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,133 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,227 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,259 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:36,297 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,351 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,479 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,518 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,620 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,667 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,742 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,779 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 55505): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:36,797 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,808 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:36,823 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55505): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:21:36,826 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,900 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:36,906 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55501): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:36,926 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:21:37,795 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:37,908 - INFO - Workers disponíveis atualizados: 3 workers
+2025-06-01 21:21:38,107 - INFO - Total imagens processadas: 2648, Labels: 2648
+2025-06-01 21:21:38,107 - INFO - Processamento concluído. Imagens: (2648, 224, 224, 1), Labels: (2648,)
+2025-06-01 21:21:38,577 - INFO - Iniciando época 1/20
+2025-06-01 21:21:44,375 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): Ran out of input
+2025-06-01 21:21:49,798 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:21:56,643 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:21:56,666 - INFO - Iniciando época 2/20
+2025-06-01 21:21:58,957 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:22:06,927 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:22:13,123 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:22:13,161 - INFO - Iniciando época 3/20
+2025-06-01 21:22:17,044 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:22:24,258 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:22:31,079 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:22:31,118 - INFO - Iniciando época 4/20
+2025-06-01 21:22:35,145 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:22:41,564 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:22:49,014 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:22:49,060 - INFO - Iniciando época 5/20
+2025-06-01 21:22:52,999 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:22:59,651 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:23:04,394 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:23:04,425 - INFO - Iniciando época 6/20
+2025-06-01 21:23:08,382 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:14,051 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:23:20,568 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:23:20,605 - INFO - Iniciando época 7/20
+2025-06-01 21:23:24,479 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:30,328 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:23:36,852 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:23:36,886 - INFO - Iniciando época 8/20
+2025-06-01 21:23:40,801 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:23:48,472 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55501): Ran out of input
+2025-06-01 21:23:55,474 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55505): Ran out of input
+2025-06-01 21:23:55,504 - INFO - Iniciando época 9/20
+2025-06-01 21:23:59,421 - ERROR - Erro ao enviar shard para ('192.168.68.108', 55495): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:24:40,815 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:25:18,679 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:18,701 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:18,747 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56138): Ran out of input
+2025-06-01 21:25:19,010 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:19,116 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:19,338 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:19,395 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:19,395 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:19,412 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:19,611 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:19,861 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:20,128 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:20,153 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:20,421 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:20,603 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:20,818 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:20,921 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:21,020 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:21,074 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:21,173 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:21,183 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:21,232 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:21,482 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:21,773 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:22,081 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:22,191 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:22,265 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:22,449 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:22,662 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:22,742 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:22,799 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:23,089 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:23,238 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:23,417 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:23,452 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:23,499 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:23,499 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:23,745 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:23,957 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,235 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,441 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:24,459 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,512 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:24,551 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,600 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56138): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:24,691 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56161): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:24,707 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,709 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56134): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:24,826 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:24,884 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:24,956 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,030 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,175 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,398 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,572 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,694 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,707 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,743 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:25,748 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56134): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,771 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56138): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,862 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,865 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56154): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,897 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:25,916 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,098 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,258 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,414 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,616 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,715 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:26,749 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:26,778 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:26,826 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:26,872 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:26,899 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,036 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,098 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:27,189 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,331 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,477 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:27,498 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56161): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:27,515 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,575 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:27,720 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 56161): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:27,720 - ERROR - Erro no processamento do chunk 181: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:27,721 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,876 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:27,950 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:28,020 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:28,127 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56158): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:25:28,149 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:28,180 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56146): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:25:28,516 - INFO - Workers disponíveis atualizados: 6 workers
+2025-06-01 21:25:29,392 - INFO - Total imagens processadas: 2648, Labels: 2648
+2025-06-01 21:25:29,393 - INFO - Processamento concluído. Imagens: (2648, 224, 224, 1), Labels: (2648,)
+2025-06-01 21:25:29,877 - INFO - Iniciando época 1/20
+2025-06-01 21:25:34,213 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56134): Ran out of input
+2025-06-01 21:25:37,371 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56138): Ran out of input
+2025-06-01 21:25:42,697 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56146): Ran out of input
+2025-06-01 21:25:46,845 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56154): Ran out of input
+2025-06-01 21:25:50,976 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56158): Ran out of input
+2025-06-01 21:25:55,411 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56161): Ran out of input
+2025-06-01 21:25:55,433 - INFO - Iniciando época 2/20
+2025-06-01 21:25:56,819 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56134): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:26:01,196 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56138): Ran out of input
+2025-06-01 21:26:05,682 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56146): Ran out of input
+2025-06-01 21:26:09,883 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56154): Ran out of input
+2025-06-01 21:26:14,376 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56158): Ran out of input
+2025-06-01 21:26:17,899 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56161): Ran out of input
+2025-06-01 21:26:17,922 - INFO - Iniciando época 3/20
+2025-06-01 21:26:21,042 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56134): [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2025-06-01 21:26:23,591 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56138): Ran out of input
+2025-06-01 21:26:27,570 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56146): Ran out of input
+2025-06-01 21:26:31,565 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56154): Ran out of input
+2025-06-01 21:26:35,801 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56158): Ran out of input
+2025-06-01 21:26:39,269 - ERROR - Erro ao enviar shard para ('192.168.68.108', 56161): Ran out of input
+2025-06-01 21:26:39,302 - INFO - Iniciando época 4/20
+2025-06-01 21:27:22,173 - INFO - Total de imagens encontradas: 2658
+2025-06-01 21:27:59,762 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:27:59,806 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:27:59,835 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:28:00,038 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:00,187 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:00,221 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:00,369 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:00,514 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:00,514 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:00,548 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:00,551 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:00,755 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:00,993 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:01,177 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:01,393 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:01,404 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:01,451 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:01,550 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:01,805 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:01,813 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:01,930 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:02,193 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:02,353 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:02,421 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:02,448 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:02,461 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56609): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:28:02,530 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:02,781 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:02,882 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:03,152 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:03,306 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:03,425 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:03,488 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:03,499 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:03,762 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:03,869 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:04,150 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:04,161 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:04,161 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:04,190 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:04,324 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:04,545 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:04,810 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,020 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,125 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:05,173 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,427 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,581 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,733 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,739 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:05,760 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:28:05,821 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,828 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:05,829 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:05,927 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:05,950 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,069 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,127 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,178 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,370 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,485 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,663 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,763 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,836 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,867 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:06,879 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,879 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,900 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,916 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:06,951 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,064 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,066 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,129 - WARNING - Tentativa 2 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,199 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,379 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,557 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,777 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,802 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56599): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,840 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,840 - ERROR - Erro no processamento do chunk 144: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,863 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:07,890 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:07,944 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,067 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,131 - WARNING - Tentativa 3 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:08,136 - ERROR - Erro no processamento do chunk 156: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:08,137 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:08,147 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,150 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:08,217 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,342 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,442 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:08,451 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:28:08,497 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,715 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,843 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:08,942 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:09,085 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:09,114 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56605): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:09,189 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:09,267 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56609): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:09,303 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:09,308 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56596): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-01 21:28:09,361 - WARNING - Tentativa 1 falhou com worker ('192.168.68.108', 56613): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-01 21:28:09,443 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:10,362 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-01 21:28:10,524 - INFO - Total imagens processadas: 2638, Labels: 2638
+2025-06-01 21:28:10,525 - INFO - Processamento concluído. Imagens: (2638, 224, 224, 1), Labels: (2638,)
+2025-06-01 21:28:10,992 - INFO - Iniciando época 1/20
+2025-06-01 21:31:52,336 - INFO - Época 1 - Val Loss: 5.8163, Val Acc: 0.4962
+2025-06-01 21:31:52,336 - INFO - Iniciando época 2/20
+2025-06-01 21:35:32,200 - INFO - Época 2 - Val Loss: 11.9193, Val Acc: 0.4962
+2025-06-01 21:35:32,200 - INFO - Iniciando época 3/20
+2025-06-01 21:39:15,841 - INFO - Época 3 - Val Loss: 13.7013, Val Acc: 0.4962
+2025-06-01 21:39:15,841 - INFO - Iniciando época 4/20
+2025-06-01 21:42:55,669 - INFO - Época 4 - Val Loss: 13.7563, Val Acc: 0.4962
+2025-06-01 21:42:55,669 - INFO - Iniciando época 5/20
+2025-06-19 12:51:49,537 - INFO - Total de imagens encontradas: 3200
+2025-06-19 12:52:34,370 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,386 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,397 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,446 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,479 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,712 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,852 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,922 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:34,979 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:35,004 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,063 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,133 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,310 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,356 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,429 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,522 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,699 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,785 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,839 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,856 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:35,914 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:35,937 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:35,983 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,004 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:36,083 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,122 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:36,136 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,273 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,421 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,522 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,635 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,755 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,793 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,902 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:36,973 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,035 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,123 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,187 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:37,200 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,327 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,386 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,459 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,560 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,607 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:37,626 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,775 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,827 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:37,907 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,017 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,193 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,207 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:38,235 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,297 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,422 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,488 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,591 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,668 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,737 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,866 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:38,931 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,030 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,155 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,252 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,398 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,525 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,595 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:39,600 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,766 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,826 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:39,876 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,024 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,120 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,169 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:40,180 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,195 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:40,286 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,332 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:40,351 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,437 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,484 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:40,598 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,636 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,701 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,884 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,972 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:40,992 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:41,021 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,154 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,187 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,196 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,196 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:41,231 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:41,241 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,244 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:41,354 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,413 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,413 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:41,462 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:41,462 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,486 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,572 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,665 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,717 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,720 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:41,798 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,860 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:41,998 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,022 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,115 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,115 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:42,123 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:42,135 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,135 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:42,200 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,202 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:42,255 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,329 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,367 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,420 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:42,431 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,501 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,531 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:42,608 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,648 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,650 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:42,725 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,855 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,858 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:42,885 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:42,996 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,077 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,133 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,153 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,226 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,230 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:43,310 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:43,333 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,337 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:43,349 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:43,356 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,441 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,488 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:43,505 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,538 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:43,553 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,678 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,683 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:43,712 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,802 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,873 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:43,976 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,003 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,119 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,234 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,238 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:44,256 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,319 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,334 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:44,354 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,451 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,477 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,498 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,505 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:44,542 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:44,542 - ERROR - Erro no processamento do chunk 172: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:44,544 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,638 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,697 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,737 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,770 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,883 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,935 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,978 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:44,992 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:45,018 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,078 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,140 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,194 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,236 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,245 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:45,288 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,338 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,342 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 51643): Ran out of input
+2025-06-19 12:52:45,342 - ERROR - Erro no processamento do chunk 187: Ran out of input
+2025-06-19 12:52:45,347 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:45,377 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,415 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,465 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,506 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,569 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,616 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:45,649 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,702 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,724 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:45,745 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,869 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,901 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,937 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,997 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:45,997 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:46,044 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,059 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,091 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,092 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,112 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,123 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,123 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,151 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:46,265 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,370 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,464 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,465 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,640 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,711 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:46,732 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,822 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:46,924 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,004 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,006 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:47,006 - ERROR - Erro no processamento do chunk 230: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:47,049 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,086 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,097 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,117 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,128 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,180 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,279 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,286 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,331 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,374 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,415 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,420 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,455 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,467 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,471 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,496 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,519 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,522 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:47,553 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,662 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,684 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:47,722 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,737 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:47,878 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:47,880 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,217 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,309 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,424 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,458 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,462 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:48,477 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,478 - ERROR - Erro no processamento do chunk 272: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,479 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,528 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,555 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51647): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:48,581 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,588 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:52:48,605 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,691 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,697 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,750 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 51647): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,757 - ERROR - Erro no processamento do chunk 275: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,765 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,876 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:48,881 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 51643): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:52:48,901 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:49,559 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:49,886 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-19 12:52:50,265 - INFO - Total imagens processadas: 3150, Labels: 3150
+2025-06-19 12:52:50,265 - INFO - Processamento concluído. Imagens: (3150, 224, 224, 1), Labels: (3150,)
+2025-06-19 12:52:50,827 - INFO - Iniciando época 1/20
+2025-06-19 12:55:01,820 - ERROR - Erro ao enviar shard para ('192.168.68.109', 51643): timed out
+2025-06-19 12:57:24,104 - INFO - Total de imagens encontradas: 3200
+2025-06-19 12:58:06,774 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:06,800 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:07,140 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:07,206 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:07,311 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:07,523 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:07,781 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:08,054 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:08,257 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:08,480 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:08,526 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:08,732 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:08,964 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:09,079 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:09,216 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:09,448 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:09,661 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:09,904 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:10,151 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:10,219 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:10,375 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:10,619 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:10,792 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:10,863 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:11,137 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:11,323 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:11,404 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:11,601 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:11,816 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:11,998 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:12,109 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:12,279 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:12,574 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:12,760 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,007 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,007 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,030 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,268 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,318 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,359 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,423 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,427 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:13,439 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,571 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,629 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:13,664 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:13,704 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:13,782 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:13,975 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,086 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,251 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,323 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,430 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,499 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,543 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,581 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:14,621 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:14,654 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,668 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,676 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,757 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:14,805 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:14,805 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:14,918 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,088 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,411 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:15,592 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,623 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:15,761 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:15,761 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:15,812 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:15,815 - ERROR - Erro no processamento do chunk 150: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:15,817 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:15,818 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:15,819 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,875 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,890 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:15,927 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:15,927 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:15,946 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,092 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,092 - ERROR - Erro no processamento do chunk 154: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,100 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:16,105 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,614 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:16,614 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,614 - ERROR - Erro no processamento do chunk 164: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,766 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:16,768 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,769 - ERROR - Erro no processamento do chunk 169: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,771 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,853 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:16,887 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:16,896 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,940 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:16,941 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,090 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,116 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:17,194 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,329 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,471 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:17,490 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:17,499 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,644 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:17,649 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:17,683 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,864 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:17,889 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:17,893 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:17,893 - ERROR - Erro no processamento do chunk 182: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,085 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,235 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,241 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,372 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,415 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,495 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,500 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:18,634 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,648 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,652 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,725 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:18,756 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:18,915 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,093 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,177 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,206 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,277 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,280 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:19,408 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,479 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,479 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,646 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,646 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,655 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53369): Ran out of input
+2025-06-19 12:58:19,655 - ERROR - Erro no processamento do chunk 222: Ran out of input
+2025-06-19 12:58:19,734 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:19,742 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:19,759 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:19,919 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,203 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,282 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,328 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,390 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,409 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,460 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): Ran out of input
+2025-06-19 12:58:20,484 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,487 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,522 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,522 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,549 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:20,786 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:20,861 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:20,977 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,089 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:21,273 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,437 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:21,496 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:21,499 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:21,504 - ERROR - Erro no processamento do chunk 267: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:21,515 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,533 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:21,543 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53301): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:21,556 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,667 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53529): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,683 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:21,790 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:21,864 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:21,904 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:21,980 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,127 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53482): Ran out of input
+2025-06-19 12:58:22,277 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,515 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:22,520 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 53369): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,561 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53482): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,562 - ERROR - Erro no processamento do chunk 294: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,626 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:22,681 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 53411): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:22,792 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:22,987 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53411): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:22,987 - ERROR - Erro no processamento do chunk 299: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-19 12:58:23,285 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 53529): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:23,285 - ERROR - Erro no processamento do chunk 302: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-19 12:58:23,522 - INFO - Workers disponíveis atualizados: 5 workers
+2025-06-19 12:58:24,035 - INFO - Total imagens processadas: 3100, Labels: 3100
+2025-06-19 12:58:24,035 - INFO - Processamento concluído. Imagens: (3100, 224, 224, 1), Labels: (3100,)
+2025-06-19 12:58:24,517 - INFO - Iniciando época 1/20
+2025-06-19 13:06:02,171 - INFO - Época 1 - Val Loss: 5.2331, Val Acc: 0.5677
+2025-06-19 13:06:02,172 - INFO - Iniciando época 2/20
+2025-06-19 13:13:41,292 - INFO - Época 2 - Val Loss: 11.0790, Val Acc: 0.5677
+2025-06-19 13:13:41,292 - INFO - Iniciando época 3/20
+2025-06-19 13:21:20,810 - INFO - Época 3 - Val Loss: 11.0769, Val Acc: 0.5677
+2025-06-19 13:21:20,811 - INFO - Iniciando época 4/20
+2025-06-19 13:32:33,497 - INFO - Época 4 - Val Loss: 10.3175, Val Acc: 0.5677
+2025-06-19 13:32:33,497 - INFO - Iniciando época 5/20
+2025-06-19 13:39:56,708 - INFO - Época 5 - Val Loss: 21.9558, Val Acc: 0.5677
+2025-06-19 13:39:56,709 - INFO - Iniciando época 6/20
+2025-06-19 13:47:31,304 - INFO - Época 6 - Val Loss: 26.6551, Val Acc: 0.5677
+2025-06-19 13:47:31,304 - INFO - Early stopping triggered
+2025-06-19 13:47:31,553 - INFO - Modelo salvo com sucesso.
+2025-06-21 10:52:08,969 - INFO - Total de imagens encontradas: 3200
+2025-06-21 10:52:53,200 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,210 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,231 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,254 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,268 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,280 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:53,514 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,604 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,678 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:52:53,718 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,772 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:53,812 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,007 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,091 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,105 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:54,162 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,215 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:52:54,228 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,337 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,439 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,497 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,596 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,669 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,681 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:54,763 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,886 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:54,922 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:54,936 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,041 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,137 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,230 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,299 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,341 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:55,362 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,481 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,576 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,631 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:52:55,647 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,737 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,850 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:55,956 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,061 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,122 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,219 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,318 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,352 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,499 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,607 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,672 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,753 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:56,922 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,082 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,215 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,298 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,431 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,527 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,677 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,769 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:57,856 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,002 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,063 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,080 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:52:58,223 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,294 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,362 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,478 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,607 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,721 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,852 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:58,957 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,068 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,201 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,267 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,377 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,482 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,554 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,667 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,750 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,851 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:52:59,938 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:52:59,957 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,002 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,217 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,277 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,284 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:00,345 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,352 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,359 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:00,413 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,443 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:00,452 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,515 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,521 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:00,569 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:00,588 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,639 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,688 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:00,766 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,777 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:00,803 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,913 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:00,972 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,113 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,119 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:01,187 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,283 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,285 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:01,363 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,380 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:01,447 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,450 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:01,491 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,526 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:01,576 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,579 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:01,611 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,701 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:01,742 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,780 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:01,782 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:01,873 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,014 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,016 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): Ran out of input
+2025-06-21 10:53:02,147 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,258 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,287 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,290 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:02,388 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,458 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,472 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:02,477 - ERROR - Erro no processamento do chunk 144: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:02,483 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:02,525 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,541 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,581 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,662 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,667 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:02,677 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:02,694 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,709 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50360): Ran out of input
+2025-06-21 10:53:02,710 - ERROR - Erro no processamento do chunk 152: Ran out of input
+2025-06-21 10:53:02,712 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,784 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,839 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,880 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:02,955 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,014 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,032 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,111 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,177 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,219 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,294 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,298 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:03,299 - ERROR - Erro no processamento do chunk 164: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:03,314 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,321 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:03,351 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,431 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,485 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,490 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): Ran out of input
+2025-06-21 10:53:03,548 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,617 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,646 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:03,661 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,673 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,696 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): Ran out of input
+2025-06-21 10:53:03,718 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,747 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,835 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,838 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:03,878 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:03,882 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:03,927 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,002 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,029 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:04,038 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,132 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,212 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,310 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,337 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,431 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,437 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:04,464 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,493 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:04,494 - ERROR - Erro no processamento do chunk 182: [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:04,495 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,577 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,634 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,652 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:04,674 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,700 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:04,701 - ERROR - Erro no processamento do chunk 188: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:04,702 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,768 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,793 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:04,826 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,843 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:04,885 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,970 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:04,975 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,009 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,028 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,128 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,147 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,166 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,186 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,189 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,231 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:05,258 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,261 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,378 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,466 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,468 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,655 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,773 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,775 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:05,796 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,851 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:05,955 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,013 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,013 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:06,085 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,168 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,168 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,192 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,192 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,240 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,268 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,276 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,340 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,348 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,381 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,489 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,513 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,513 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:06,561 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,569 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:06,730 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:06,785 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:06,900 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,021 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,021 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,021 - ERROR - Erro no processamento do chunk 261: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,151 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,175 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,175 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,179 - ERROR - Erro no processamento do chunk 266: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,211 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,219 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,219 - ERROR - Erro no processamento do chunk 267: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,259 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,259 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,287 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,287 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:07,327 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,359 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,408 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,432 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,493 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,493 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50356): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,493 - ERROR - Erro no processamento do chunk 272: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,493 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50360): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:07,517 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,551 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,575 - WARNING - Tentativa 2 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,607 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,660 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,725 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,800 - WARNING - Tentativa 3 falhou com worker ('192.168.68.109', 50360): [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,800 - ERROR - Erro no processamento do chunk 275: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-06-21 10:53:07,808 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:07,824 - WARNING - Tentativa 1 falhou com worker ('192.168.68.109', 50356): [WinError 10053] Uma conexão estabelecida foi anulada pelo software no computador host
+2025-06-21 10:53:08,313 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:08,519 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:08,828 - INFO - Workers disponíveis atualizados: 2 workers
+2025-06-21 10:53:09,231 - INFO - Total imagens processadas: 3100, Labels: 3100
+2025-06-21 10:53:09,232 - INFO - Processamento concluído. Imagens: (3100, 224, 224, 1), Labels: (3100,)
+2025-06-21 10:53:09,878 - INFO - Iniciando época 1/20

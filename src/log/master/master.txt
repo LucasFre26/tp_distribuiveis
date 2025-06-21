@@ -1,0 +1,2 @@
+2025-06-19 12:07:44,181 - INFO - Master server iniciado em 0.0.0.0:5000
+2025-06-19 12:08:59,266 - INFO - Master server encerrado
